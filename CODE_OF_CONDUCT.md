@@ -59,7 +59,7 @@ If a community member engages in unacceptable behavior, the community organizers
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. [CONTACT_INFO_HERE].
 
-[LINK_TO_REPORTING_GUIDELINES]
+[Website](http://views.drizzlydeveloper.gq/)
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
@@ -77,7 +77,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 10. Contact info
 
-[YOUR_CONTACT_INFO_HERE -- this should be a single person or a small team who can respond to issues directly]
+[Discord](http://cihatksm.tk/discord) | [Instagram](http://cihatksm.tk/instagram) | [Twitter](http://cihatksm.tk/twitter)
 
 ## 11. License and attribution
 
