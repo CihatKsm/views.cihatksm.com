@@ -56,9 +56,9 @@ app.get("/:name/api", async (req, res) => {
 });
 
 mongoose.connect(config.mongodb, { useNewUrlParser: true, useUnifiedTopology: true })
-    .then(() => console.log('> [server.js] - Connected MongoDB'))
+    .then(() => console.log('Connected Local MongoDB'))
     .catch(err => console.log(err));
 
 app.listen(config.port, () => {
-  console.log(`> [server.js] - Website Online : http://localhost:${config.port}`);
+  console.log(`Website : http://localhost:${config.port}`);
 });
