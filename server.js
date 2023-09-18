@@ -60,5 +60,5 @@ mongoose.connect(config.mongodb, { useNewUrlParser: true, useUnifiedTopology: tr
     .catch(err => console.log(err));
 
 app.listen(config.port, () => {
-  console.log(`> [server.js] - Website Online : http://localhost:3000/`);
+  console.log(`> [server.js] - Website Online : http://localhost:${config.port}`);
 });
